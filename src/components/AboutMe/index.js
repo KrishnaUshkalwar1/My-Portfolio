@@ -13,7 +13,7 @@ const AboutMe = () => (
     </div>
     <div className="image-container">
       <img
-        src="https://i.postimg.cc/W16xWH7y/Krishna-Ushkalwar-Profile-image.jpg"
+        src="https://i.postimg.cc/t4cs4mV9/Krishna-Ushkalwar-Profile-image.jpg"
         className="about-me-image"
         alt="profile"
       />
