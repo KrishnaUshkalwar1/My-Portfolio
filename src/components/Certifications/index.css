@@ -1,0 +1,21 @@
+.certifications-bg-container {
+  display: flex;
+  flex-direction: column;
+  padding-top: 100px;
+}
+
+.certifications-title {
+  font-family: "Roboto";
+  font-size: 25px;
+  color: #000000;
+}
+
+.certifications-container {
+  background-color: #6ca3f5;
+  padding: 40px;
+}
+
+.certificate-image {
+  height: 200px;
+  width: 300px;
+}

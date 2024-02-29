@@ -1,0 +1,65 @@
+.about-me-bg-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: center;
+  margin-top: 70px;
+  padding-top: 50px;
+}
+
+.about-me-details-container {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  order: 0;
+}
+
+.about-me-title {
+  font-family: "Roboto";
+  font-size: 40px;
+  color: #000000;
+  margin-bottom: 0px;
+}
+
+.name {
+  color: #eb7a4d;
+}
+
+.about-me-description {
+  font-family: "Roboto";
+  font-size: 18px;
+  color: #7c7878;
+}
+
+.image-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-me-image {
+  height: 370px;
+  width: 340px;
+  border-radius: 250px;
+  margin-top: 40px;
+  order: 1;
+}
+
+@media screen and (max-width: 768px) {
+  .about-me-container {
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
+  .about-me-details-container {
+    order: 1;
+  }
+
+  .about-me-image {
+    height: 300px;
+    width: 280px;
+    order: 0;
+    align-self: center;
+  }
+}

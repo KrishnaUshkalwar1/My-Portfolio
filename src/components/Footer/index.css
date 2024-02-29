@@ -1,0 +1,56 @@
+.footer-bg-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #5c5f63;
+  width: 100vw;
+  padding-bottom: 20px;
+}
+
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  width: 75vw;
+}
+
+.footer-heading {
+  font-family: "Roboto";
+  font-size: 30px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.phone-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.icon {
+  height: 20px;
+  width: 20px;
+  margin-top: 21px;
+  margin-right: 10px;
+  margin-bottom: 0px;
+}
+
+.text {
+  font-family: "Roboto";
+  font-size: 20px;
+  color: #000000;
+  margin-bottom: 0px;
+}
+
+.app-logos-container {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+
+.app-logo {
+  height: 38px;
+  width: 38px;
+  padding: 7px;
+  border-radius: 25px;
+  background-color: #8f9194;
+  margin-right: 10px;
+}

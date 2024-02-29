@@ -1,0 +1,88 @@
+.nav-bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #479bf5;
+  width: 100%;
+  position: fixed;
+}
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  height: 65px;
+  width: 75vw;
+}
+.nav-name-logo {
+  font-family: "Roboto";
+  font-size: 25px;
+  font-weight: 600;
+  color: #ffffff;
+}
+
+.hamburger-icon {
+  height: 28px;
+  width: 28px;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+@media screen and (min-width: 768px) {
+  .hamburger-icon {
+    display: none;
+  }
+}
+
+.nav-options-mobile-container {
+  display: none;
+  flex-direction: column;
+  background-color: #122116;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  list-style-type: none;
+  width: 100vw;
+}
+
+.show {
+  display: flex;
+}
+
+@media screen and (min-width: 768px) {
+  .nav-options-mobile-container {
+    display: none;
+  }
+
+  .show {
+    display: none;
+  }
+}
+
+.mobile-option {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  border: 1px solid #939694;
+}
+
+.nav-options-container {
+  display: none;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+@media screen and (min-width: 768px) {
+  .nav-options-container {
+    display: flex;
+  }
+}
+
+.nav-option {
+  font-family: "Roboto";
+  font-size: 17px;
+  color: #ffffff;
+  margin-right: 40px;
+  text-decoration: none;
+}

@@ -1,0 +1,42 @@
+.projects-bg-container {
+  display: flex;
+  flex-direction: column;
+  padding-top: 100px;
+  margin-bottom: 50px;
+}
+
+.projects-title {
+  font-family: "Roboto";
+  font-size: 25px;
+  color: #000000;
+  margin-bottom: 40px;
+}
+
+.projects-container {
+  display: flex;
+  flex-direction: row;
+  border: 2px solid #71a3f5;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.project-container {
+  display: flex;
+  flex-direction: column;
+  margin-right: 200px;
+}
+
+.project-image {
+  height: 250px;
+  width: 400px;
+}
+
+.project-name {
+  font-family: "Roboto";
+  font-size: 23px;
+  color: #000000;
+  cursor: pointer;
+  text-decoration: none;
+  margin-top: 20px;
+  align-self: center;
+}

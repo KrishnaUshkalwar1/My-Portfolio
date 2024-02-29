@@ -1,0 +1,58 @@
+.education-bg-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  padding-top: 70px;
+}
+
+.education-title {
+  font-family: "Roboto";
+  font-size: 25px;
+  color: #000000;
+}
+
+.education-container {
+  background-color: #fcb377;
+  border: 1px solid #ded4cc;
+  border-radius: 10px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.education-college-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.college-details-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.college-name {
+  font-family: "Roboto";
+  font-size: 24px;
+  color: #000000;
+  margin-bottom: 0px;
+}
+
+.college-course {
+  font-family: "Roboto";
+  font-size: 18px;
+  color: #434345;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+.college-start-end-year {
+  font-family: "Roboto";
+  font-size: 25px;
+  font-weight: 600;
+  color: #000000;
+  margin-top: 18px;
+  margin-right: 15px;
+}
