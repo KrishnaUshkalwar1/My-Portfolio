@@ -6,7 +6,7 @@ const Projects = () => (
     <div className="projects-container">
       <div className="project-container">
         <img
-          src="https://i.postimg.cc/6Ts0HL27/Screenshot-2024-02-29-120106.png"
+          src="https://i.postimg.cc/XvZjJwRF/Screenshot-2024-02-29-120106.png"
           className="project-image"
           alt="project"
         />
@@ -20,7 +20,7 @@ const Projects = () => (
       </div>
       <div className="project-container">
         <img
-          src="https://i.postimg.cc/8k9VbgLy/Screenshot-2024-02-29-123938.png"
+          src="https://i.postimg.cc/TwRt09T5/Screenshot-2024-02-29-123938.png"
           className="project-image"
           alt="project"
         />

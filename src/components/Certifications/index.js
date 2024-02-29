@@ -19,49 +19,49 @@ const Certifications = () => {
         <Slider {...settings}>
           <div>
             <img
-              src="https://i.postimg.cc/FK3SY5tb/Static-Website-Course-completion-certificate.png"
+              src="https://i.postimg.cc/5yVw49Rc/Static-Website-Course-completion-certificate.png"
               className="certificate-image"
               alt="certificate"
             />
           </div>
           <div>
             <img
-              src="https://i.postimg.cc/h4bH9f86/Responsive-Website-Certificate.png"
+              src="https://i.postimg.cc/DwXygQzg/Responsive-Website-Certificate.png"
               className="certificate-image"
               alt="certificate"
             />
           </div>
           <div>
             <img
-              src="https://i.postimg.cc/wMG5hXwD/Python-Completion-certificate.png"
+              src="https://i.postimg.cc/JnvRZGWg/Python-Completion-certificate.png"
               className="certificate-image"
               alt="certificate"
             />
           </div>
           <div>
             <img
-              src="https://i.postimg.cc/C16ntFbg/Java-Script-Completion-Certificate.png"
+              src="https://i.postimg.cc/y81CJFZx/Java-Script-Completion-Certificate.png"
               className="certificate-image"
               alt="certificate"
             />
           </div>
           <div>
             <img
-              src="https://i.postimg.cc/wMCyq0W4/SQL-Course-Completion-Certificate.png"
+              src="https://i.postimg.cc/m2d8wMnt/SQL-Course-Completion-Certificate.png"
               className="certificate-image"
               alt="certificate"
             />
           </div>
           <div>
             <img
-              src="https://i.postimg.cc/TwhpnZFH/Java-Script-Essential-Course-Completion-certificate.png"
+              src="https://i.postimg.cc/yNRjsG8Z/Java-Script-Essential-Course-Completion-certificate.png"
               className="certificate-image"
               alt="certificate"
             />
           </div>
           <div>
             <img
-              src="https://i.postimg.cc/s2jmS4z0/Responsive-Web-Design-Using-Flexbox-certificate.png"
+              src="https://i.postimg.cc/g0Gj2XYH/Responsive-Web-Design-Using-Flexbox-certificate.png"
               className="certificate-image"
               alt="certificate"
             />
