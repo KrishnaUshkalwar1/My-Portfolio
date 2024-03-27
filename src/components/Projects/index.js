@@ -32,6 +32,20 @@ const Projects = () => (
           Currency Converter
         </a>
       </div>
+      <div className="project-container">
+        <img
+          src="https://i.postimg.cc/gk13Jpng/Screenshot-2024-03-27-125755.png"
+          className="project-image"
+          alt="project"
+        />
+        <a
+          href="https://krishna-news-app.onrender.com/"
+          className="project-name"
+          target="_blank"
+        >
+          News App
+        </a>
+      </div>
     </div>
   </div>
 );
