@@ -46,6 +46,34 @@ const Projects = () => (
           News App
         </a>
       </div>
+      <div className="project-container">
+        <img
+          src="https://i.postimg.cc/85MSvNj7/Screenshot-2024-03-29-114107.png"
+          className="project-image"
+          alt="project"
+        />
+        <a
+          href="https://todo-app-lsro.onrender.com"
+          className="project-name"
+          target="_blank"
+        >
+          Todos App
+        </a>
+      </div>
+      <div className="project-container">
+        <img
+          src="https://i.postimg.cc/QM03k0b3/Screenshot-2024-03-29-114327.png"
+          className="project-image"
+          alt="project"
+        />
+        <a
+          href="https://products-app-tvme.onrender.com"
+          className="project-name"
+          target="_blank"
+        >
+          Products App
+        </a>
+      </div>
     </div>
   </div>
 );
