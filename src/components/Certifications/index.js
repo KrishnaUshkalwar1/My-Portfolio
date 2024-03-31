@@ -66,6 +66,13 @@ const Certifications = () => {
               alt="certificate"
             />
           </div>
+          <div>
+            <img
+              src="https://i.postimg.cc/Fz9Php5v/Node-JS-Course-Completion-Certificate.png"
+              className="certificate-image"
+              alt="certificate"
+            />
+          </div>
         </Slider>
       </div>
     </div>
